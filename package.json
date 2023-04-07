@@ -1,11 +1,11 @@
 {
   "name": "tauri-plugin-sqlite-api",
   "description": "A Tauri plugin for interface to SQLite",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "lzdyes <lzdyes@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lzdyes/tauri-plugin-sqlite"
+    "url": "https://github.com/jeryckho/tauri-plugin-sqlite"
   },
   "browser": "webview-dist/index.js",
   "main": "webview-dist/index.js",

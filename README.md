@@ -12,16 +12,16 @@ This plugin provides a "classical" Tauri Plugin interface to SQLite database thr
 
 ```toml
 [dependencies.tauri-plugin-sqlite]
-git = "https://github.com/lzdyes/tauri-plugin-sqlite"
-tag = "v0.1.1"
+git = "https://github.com/jeryckho/tauri-plugin-sqlite"
+tag = "v0.1.2"
 ```
 
 ### Webview
 
 ```
-npm install github:lzdyes/tauri-plugin-sqlite#v0.1.1
+npm install github:jeryckho/tauri-plugin-sqlite#v0.1.2
 # or
-yarn add github:lzdyes/tauri-plugin-sqlite#v0.1.1
+yarn add github:jeryckho/tauri-plugin-sqlite#v0.1.2
 ```
 
 ## Usage
